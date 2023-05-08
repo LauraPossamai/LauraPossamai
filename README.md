@@ -42,3 +42,8 @@ Relational Databases, Querying, Selecting Data, Filtering Records, Aggregate Fun
 
 ## Languages and tools
 <div style="display: inline_block">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="45" width="45" src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png">
+  <img align="center" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png.png">
+  <img align="center" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
+</div>
