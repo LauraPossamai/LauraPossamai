@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Laura Possamai</h1>
+<h1 align="center"> 🌟🌟Hi everyone, I'm Laura Possamai 🌟🌟</h1>
 <h3 align="center">Data Analyst | Analista de Dados | Power BI | DAX | Python | SQL</h3>
 
 Objective:
