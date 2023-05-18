@@ -25,7 +25,7 @@ Intermediate Python by DataCamp
 Experience:
 Freelance Power BI Dashboard Creator, UpWork Freelance Company
 
-Created and designed Power BI dashboards for various clients using advanced DAX formulas and data modeling techniques.
+Create and design Power BI dashboards using DAX formulas and data visualization techniques.
 
 Skills:
 Proficient in Power BI, DAX, and Python.
