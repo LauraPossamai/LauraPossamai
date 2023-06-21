@@ -1,39 +1,7 @@
 <h1 align="center"> 🌟🌟Hi everyone, I'm Laura Possamai 🌟🌟</h1>
-<h3 align="center">Data Analyst | Analista de Dados | Power BI | DAX | Python | SQL</h3>
+<h3 align="center">Data Science Student</h3>
 
-Objective:
-Seeking a position as a Data Analyst, applying acquired analytical skills and knowledge in data analysis and data visualization.
-
-Education:
-Studying Data Science at Universidade Estácio de Sá.
-Bachelor of Science in Psychology from the Pontifícia Universidade Católica do Rio Grande do Sul.
-
-Languages:
-English: Proficient in reading, writing, and speaking, with a certification from the CAPLLE (Language Proficiency Evaluation Committee) affiliated with the Modern Languages Department of the Federal University of Rio Grande do Sul (UFRGS).
-
-Courses:
-Power BI + DAX + Projects in Practice course by Udemy
-Introduction to Power BI course by DataCamp.
-Introduction to Python course by DataCamp.
-Introduction to SQL by DataCamp
-Data Science for Business by DataCamp
-Data Visualization in Power BI by DataCamp
-Introduction to DAX in Power BI by DataCamp
-Intermediate SQL by DataCamp
-Intermediate Python by DataCamp
-
-Experience:
-Freelance Power BI Dashboard Creator, UpWork Freelance Company
-
-Create and design Power BI dashboards using DAX formulas and data visualization techniques.
-
-Skills:
-Proficient in Power BI, DAX, and Python.
-Skilled in data analysis and data visualization.
-Strong communication and interpersonal skills.
-Ability to work in a team and collaborate with other departments.
-Excellent organizational skills and ability to manage multiple tasks simultaneously.
-Relational Databases, Querying, Selecting Data, Filtering Records, Aggregate Functions and Sorting and Grouping in SQL.
+ I'm a Data Science student transitioning my career to the field of data analysis, with a strong desire to gain practical experience in the technology industry. I aim to leverage my acquired analytical skills and knowledge in data analysis and visualization to contribute effectively in this field.
 
 
 ## Languages and tools
